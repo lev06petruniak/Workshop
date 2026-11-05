@@ -15,10 +15,10 @@ window.CATS = [
   },
   // Fill this maine coon info
    {
-    name: "",
-    github: "",
-    fur: "",
-    stripe: "",
-    fact: ""
+    name: "Barsik",
+    github: "barsik1999top",
+    fur: "Soft",
+    stripe: "absent",
+    fact: "Is old as fuck"
   },
 ];
